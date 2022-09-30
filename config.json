@@ -6,6 +6,9 @@
     "username": "sync",
     "password": "password"
   },
+  "api":{
+    "admin_interface": ":4895"
+  },
   "logging": {
     "console": {
       "enabled": true,
