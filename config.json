@@ -1,6 +1,7 @@
 {
   "bootstrap": {
     "server": "couchbase://couchbase-server",
+    "use_tls_server": false,
     "server_tls_skip_verify": true,
     "username": "sync",
     "password": "password"
