@@ -7,7 +7,8 @@
     "password": "password"
   },
   "api":{
-    "admin_interface": ":4895"
+    "admin_interface": ":4895",
+    "admin_interface_authentication": false
   },
   "logging": {
     "console": {
